@@ -1,6 +1,6 @@
 # MIT OpenCourseWare Portfolio Index
 
-## 📚 Course Index
+## Course Index
 
 | Course | Repo | Status |
 |--------|-------|---------|
